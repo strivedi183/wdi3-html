@@ -1,0 +1,120 @@
+#p2
+{
+  position: relative;
+  top: 20px;
+  left: 250px;
+  border: 1px dashed #00ff00;
+}
+
+#p3
+{
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  border: 1px dashed #0000ff;
+}
+
+/*p
+{
+  float: left;
+}
+
+#d1
+{
+  clear: both;
+}*/
+
+/*@import url(http://fonts.googleapis.com/css?family=Arbutus);
+
+body
+{
+  background: url('../images/background.png') repeat
+}
+
+header
+{
+  background-color: #cccccc;
+  font-family: 'Arbutus', cursive;
+  font-size: 50px;
+  color: #757575;
+  border-bottom: 3px solid #ff00ff;
+  margin-bottom: 20px;
+}
+
+a
+{
+  color: #00ff00;
+  text-decoration: none;
+}
+
+a:hover
+{
+  color: #0000ff;
+  text-decoration: underline;
+}
+
+#p5, #p4, #p6
+{
+  width: 50px;
+  height: 30px;
+  padding: 5px;
+  border: 3px solid green;
+  margin: 20px;
+}
+
+span
+{
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  border: 5px solid red;
+  padding: 20x;
+  margin: 15px;
+  text-align: center;
+  vertical-align: middle;
+}*/
+
+/*header, footer
+{
+  color: #00ffff;
+}
+
+#s1 p
+{
+  border: 1px solid #ff00ff;
+}
+
+#p4 + #p5
+{
+  border: 1px dashed green;
+}
+
+*
+{
+  color: red;
+}
+
+.c1
+{
+  font-size: 25px;
+}
+
+#p1
+{
+  color: red;
+}
+
+#p2
+{
+  color: green;
+}
+
+#p3
+{
+  color: blue;
+}
+
+#p3
+{
+  color: $ff00ff;
+}*/
